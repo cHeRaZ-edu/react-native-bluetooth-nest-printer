@@ -651,3 +651,18 @@ await BluetoothEscposPrinter.printerAlign(BluetoothEscposPrinter.ALIGN.CENTER);
 await BluetoothEscposPrinter.printText("欢迎下次光临\n\r\n\r\n\r", {});
 await BluetoothEscposPrinter.printerAlign(BluetoothEscposPrinter.ALIGN.LEFT);
 ```
+
+## Contact
+
+- Website: https://ischau.org
+- Website 2: https://dovuihainao.com
+- Telegram: https://t.me/baochau9xx
+- Facebook: https://facebook.com/baochau9xx
+- Mail: chau.02it@gmail.com
+
+## Keyword
+
+- react-native-bluetooth-nest-printer, react-native, react-native-bluetooth, react-native-printer
+- bluetooth-printer, react-native-bluetooth-printer
+- baochau, baochau9xx, ischau, ischau.org
+- dovuihainao
